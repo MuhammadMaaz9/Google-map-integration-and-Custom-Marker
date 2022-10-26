@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "49193975226",
+    "project_id": "realtime-prac",
+    "storage_bucket": "realtime-prac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:49193975226:android:e6d995e2fc42f5749cf183",
+        "android_client_info": {
+          "package_name": "com.example.tracking_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "49193975226-76cqqpf79u965362nnglc2jrh0ljaj25.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBm12S9YO7lKXrUCiAs0yJumONtUCbH61Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "49193975226-76cqqpf79u965362nnglc2jrh0ljaj25.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
